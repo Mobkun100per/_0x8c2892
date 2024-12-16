@@ -1,0 +1,27 @@
+[
+    {
+        "username": "Saaho2019",
+        "subscribedTill": "2024-12-31T23:59:59",
+        "isSubscribed": true
+    },
+    {
+        "username": "user2",
+        "subscribedTill": "2024-11-30T18:00:00",
+        "isSubscribed": true
+    },
+    {
+        "username": "user3",
+        "subscribedTill": "2023-12-31T12:00:00",
+        "isSubscribed": false
+    },
+    {
+        "username": "user4",
+        "subscribedTill": null,
+        "isSubscribed": false
+    },
+    {
+        "username": "user5",
+        "subscribedTill": "2025-01-15T10:30:00",
+        "isSubscribed": true
+    }
+]
